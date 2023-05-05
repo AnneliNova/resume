@@ -1,0 +1,181 @@
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #cecece;
+    padding: 40px;
+}
+h1 {
+    font-size: 45px;
+    line-height: 55px;
+    margin-bottom: 28px;
+}
+
+p, li {
+    font-size: 14px;
+    line-height: 24px;
+}
+.parag_about, li {
+    color: #595959;
+}
+li {
+    font-size: 14px;
+    line-height: 24px;
+    font-style: normal;
+    font-weight: 700;
+    color: #000;
+}
+ol, ul {
+    margin: 0;
+    padding: 0 0 0 15px;
+}
+
+p {
+    color: #A8A8A8;
+}
+
+.my-profesion {
+   font-size: 14px;
+   line-height: 16px;
+}
+.wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-direction: row-reverse;
+    background-color: #fff;
+    width: 1200px;
+    margin: 0 auto;
+    box-shadow: 0px 4px 4px rgba( 0, 0, 0, 0.25);
+}
+
+/* main_content */
+.main_content {
+    padding: 88px;
+}
+
+.my-profesion {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+    margin: 0 0 18px 0;
+}
+
+.my_descr {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    width: 525px;
+}
+
+.about_me_container {
+    margin-bottom: 64px;
+}
+/* PROJECT */
+.my_project_container {
+   margin-bottom: 48px;
+}
+
+.project_item_decr {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.project_item_link {
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+    color: #005FFf;
+
+}
+/* WPRK EXPERIENSE */
+.work_experiense_container {
+    margin-bottom: 44px;
+}
+секретар
+.work_experiense_position {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0;
+}
+
+.work_experiense_item {
+    margin-bottom: 16px;
+
+}
+
+.work_experiense_company {
+    color: #6D9BF5;
+}
+
+.work_period {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    margin: 12px 0 8px 0;
+}
+
+.work_experiense_duties {   
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: black;
+}
+/* SIDEBAR */
+
+.sidebar {
+    width: 370px;
+}
+aside {
+    background-color: #b5b1b1;
+}
+.my_photo {
+    margin-top: 40px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.tech_Skills_container, 
+.contacts_container {
+    margin: 40px 0 0 40px;
+}
+.sidebar_title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161d2a;
+}
+.contacts_type {
+    font-weight: 700;
+    font-style: normal;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;
+}
+.contacts_item {
+    margin: 0;
+}
+.contacts_tel {
+    color: #161d2a;
+}
+.skills_list {
+    margin: 0;
+    padding: 0 0 0 12px;
+}
+.skills_list_item {
+    color: #6D9BF5;
+}
+.skills_list_item span {
+    color: #161d2a;
+}
