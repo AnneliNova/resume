@@ -1,3 +1,4 @@
 # resume
 my resume
-https://amazing-mochi-edc179.netlify.app
+https://cool-muffin-833492.netlify.app/
+
